@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Atharva-AAS
-- 👀 I’m interested in GIT
-- 🌱 I’m currently learning git and github
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me? Sure reach me out via gmail on;srivastavatharvaalok@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: my intellectuality
+# Hi, I'm Atharva
 
-<!---
-Atharva-AAS/Atharva-AAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm transitioning into data analytics and building a focused portfolio through hands-on projects.
+
+## What I'm building
+
+- Python and Pandas analysis projects
+- SQL projects
+- Excel and Power BI projects
+
+## Portfolio
+
+I'm preparing my first project for publication: an introductory Iris flower classification notebook using Python and Logistic Regression.
+
+## Goal
+
+To build practical, business-oriented analytics projects and grow into a data analytics role.
